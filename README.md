@@ -7,6 +7,7 @@ In this project, I will be using historical game sales data from 2016 to create 
 - Identifying leading platforms, track sales trends, and pinpoint potentially profitable options for the company.
 
 - Analyzing the impact of reviews on sales for a chosen platform and compare game sales across platforms. 
+
 - Investigating genre distribution to track trends in profitability.
 
 
